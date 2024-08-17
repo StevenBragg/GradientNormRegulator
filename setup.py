@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="gnr",
+    name="gradient-norm-regulator",
     version="0.1.0",
     author="Steven Bragg",
     author_email="your.email@example.com",
