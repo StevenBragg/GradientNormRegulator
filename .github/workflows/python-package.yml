@@ -29,7 +29,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        python -m pip install numpy flake8 pytest  # Add numpy here to ensure it's installed
+        python -m pip install numpy tensorflow flake8 pytest  # Add tensorflow here to ensure it's installed
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
     - name: Lint with flake8
