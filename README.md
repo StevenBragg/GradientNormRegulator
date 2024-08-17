@@ -183,4 +183,4 @@ Contributions to improve the `GradientNormRegulator` are welcome. Please feel fr
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+GradientNormRegulator is licensed under the Apache License, Version 2.0. See the LICENSE file for the full license text.
